@@ -1,3 +1,4 @@
+// This is not a deadlock => not infinitly loop
 function makeFuture() {
     let resolve;
     let reject;
